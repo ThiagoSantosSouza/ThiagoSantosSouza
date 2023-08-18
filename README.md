@@ -1,5 +1,5 @@
 ### Sejam bem-vindos (as) 👋
-Olá pessoal, sou o Thiago Santos, analista de sistemas e programador **back-end**, atualmente trabalho como analista de sistemas na minha empresa, chamada sties, onde presto serviços de implementação e manutenção em redes de computadores, sonorização e afins.
+Olá pessoal, sou o Thiago Santos, analista de sistemas e programador **back-end**, atualmente trabalho como analista de sistemas na minha empresa, chamada sties, onde presto serviços de implementação e manutenção em redes de computadores, sonorização e sistemas de segurança eletrônica e afins.
 Voltei a estudar programação, pois é a área que sempre amei, e em breve, estarei compartilhando mais projetos aqui com vocês.
 
 ## Hard skills
